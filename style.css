@@ -1,0 +1,23 @@
+.btn-custom {
+    background-color: #ff5722;
+    border-color: #e64a19;
+    color: #ffffff;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    border-radius: 25px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-custom:hover {
+    background-color: #e64a19;
+    border-color: #bf360c;
+}
+
+.btn-primary {
+    background-color: #4caf50;
+    border-color: #388e3c;
+}
+
+.btn-primary:hover {
+    background-color: #388e3c;
+}
